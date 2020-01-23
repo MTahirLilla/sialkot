@@ -1,0 +1,71 @@
+2020-01-16 8:09:57 - PHP Notice:  Undefined property: Config::$site_url in C:\xampp\htdocs\opencart\admin\controller\common\dashboard.php on line 5
+2020-01-16 8:10:41 - PHP Notice:  Undefined property: Config::$site_base in C:\xampp\htdocs\opencart\admin\controller\common\dashboard.php on line 5
+2020-01-16 9:18:10 - PHP Notice:  Undefined property: Config::$customer in C:\xampp\htdocs\opencart\admin\controller\common\dashboard.php on line 5
+2020-01-16 13:57:56 - PHP Notice:  A non well formed numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 84
+2020-01-16 13:57:56 - PHP Notice:  A non well formed numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 101
+2020-01-16 13:57:56 - PHP Notice:  A non well formed numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 105
+2020-01-16 13:57:56 - PHP Notice:  A non well formed numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 116
+2020-01-16 13:57:56 - PHP Notice:  A non well formed numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 84
+2020-01-16 13:57:56 - PHP Notice:  A non well formed numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 101
+2020-01-16 13:57:56 - PHP Notice:  A non well formed numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 105
+2020-01-16 13:57:56 - PHP Notice:  A non well formed numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 116
+2020-01-21 8:32:43 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 84
+2020-01-21 8:32:43 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 85
+2020-01-21 8:32:43 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 101
+2020-01-21 8:32:43 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 102
+2020-01-21 8:32:43 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, string given in C:\xampp\htdocs\opencart\system\library\image.php on line 105
+2020-01-21 8:32:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 113
+2020-01-21 8:32:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 116
+2020-01-21 8:32:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 118
+2020-01-21 8:32:43 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 84
+2020-01-21 8:32:43 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 85
+2020-01-21 8:32:43 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 101
+2020-01-21 8:32:43 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 102
+2020-01-21 8:32:43 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, string given in C:\xampp\htdocs\opencart\system\library\image.php on line 105
+2020-01-21 8:32:43 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 113
+2020-01-21 8:32:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 116
+2020-01-21 8:32:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 118
+2020-01-21 8:32:52 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 84
+2020-01-21 8:32:52 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 85
+2020-01-21 8:32:52 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 101
+2020-01-21 8:32:52 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 102
+2020-01-21 8:32:52 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, string given in C:\xampp\htdocs\opencart\system\library\image.php on line 105
+2020-01-21 8:32:52 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 113
+2020-01-21 8:32:52 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 116
+2020-01-21 8:32:52 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 118
+2020-01-21 8:32:52 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 84
+2020-01-21 8:32:52 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 85
+2020-01-21 8:32:52 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 101
+2020-01-21 8:32:52 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 102
+2020-01-21 8:32:52 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, string given in C:\xampp\htdocs\opencart\system\library\image.php on line 105
+2020-01-21 8:32:52 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 113
+2020-01-21 8:32:52 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 116
+2020-01-21 8:32:52 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 118
+2020-01-21 8:33:14 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 84
+2020-01-21 8:33:14 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 85
+2020-01-21 8:33:14 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 101
+2020-01-21 8:33:14 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\library\image.php on line 102
+2020-01-21 8:33:14 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, string given in C:\xampp\htdocs\opencart\system\library\image.php on line 105
+2020-01-21 8:33:14 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 113
+2020-01-21 8:33:14 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 116
+2020-01-21 8:33:14 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in C:\xampp\htdocs\opencart\system\library\image.php on line 118
+2020-01-22 8:31:07 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\system\library\mail.php on line 158
+2020-01-22 8:43:33 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\system\library\mail.php on line 158
+2020-01-22 8:43:35 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\system\library\mail.php on line 158
+2020-01-22 9:01:38 - PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\opencart\admin\controller\extension\installer.php on line 291
+2020-01-22 9:17:18 - PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\opencart\admin\controller\extension\installer.php on line 291
+2020-01-22 9:20:22 - PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\opencart\admin\controller\extension\installer.php on line 291
+2020-01-22 9:21:28 - PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\opencart\admin\controller\extension\installer.php on line 291
+2020-01-22 12:46:37 - PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\opencart\admin\controller\extension\installer.php on line 291
+2020-01-22 17:06:29 - PHP Notice:  Undefined index: text_tax in C:\xampp\htdocs\opencart\system\storage\modification\catalog\view\theme\default\template\extension\module\featured.tpl on line 24
+2020-01-22 17:06:29 - PHP Notice:  Undefined index: text_tax in C:\xampp\htdocs\opencart\system\storage\modification\catalog\view\theme\default\template\extension\module\featured.tpl on line 24
+2020-01-22 17:33:00 - PHP Notice:  Undefined index: text_tax in C:\xampp\htdocs\opencart\system\storage\modification\catalog\view\theme\default\template\extension\module\featured.tpl on line 24
+2020-01-22 17:33:00 - PHP Notice:  Undefined index: text_tax in C:\xampp\htdocs\opencart\system\storage\modification\catalog\view\theme\default\template\extension\module\featured.tpl on line 24
+2020-01-22 17:36:36 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\storage\modification\catalog\view\theme\default\template\extension\module\featured.tpl on line 24
+2020-01-22 17:36:36 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\storage\modification\catalog\view\theme\default\template\extension\module\featured.tpl on line 24
+2020-01-22 17:36:36 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\storage\modification\catalog\view\theme\default\template\extension\module\featured.tpl on line 24
+2020-01-22 17:36:36 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\storage\modification\catalog\view\theme\default\template\extension\module\featured.tpl on line 24
+2020-01-22 17:37:06 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\storage\modification\catalog\view\theme\default\template\extension\module\featured.tpl on line 24
+2020-01-22 17:37:06 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\storage\modification\catalog\view\theme\default\template\extension\module\featured.tpl on line 24
+2020-01-22 17:37:06 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\storage\modification\catalog\view\theme\default\template\extension\module\featured.tpl on line 24
+2020-01-22 17:37:06 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\opencart\system\storage\modification\catalog\view\theme\default\template\extension\module\featured.tpl on line 24

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modification>
+    <name><![CDATA[Hide Ex Tax]]></name>
+    <code><![CDATA[kokuhideextax]]></code>
+    <version><![CDATA[1.0]]></version>
+    <author><![CDATA[koku]]></author>
+    <link><![CDATA[http://www.koku-scripts.com]]></link>
+
+<file path="catalog/view/theme/*/template/product/product.tpl">
+	<operation>
+	<search index="0"><![CDATA[if ($tax)]]></search>
+	<add position="replace"><![CDATA[if (false)]]></add>
+	</operation>
+
+	<operation>
+	<search index="0"><![CDATA[if ($product['tax'])]]></search>
+	<add position="replace"><![CDATA[if (false) ]]></add>
+	</operation>
+</file>
+
+<file path="catalog/view/theme/*/template/product/category.tpl">
+	<operation>
+	<search index="0"><![CDATA[if ($product['tax'])]]></search>
+	<add position="replace"><![CDATA[if (false) ]]></add>
+	</operation>
+</file>
+
+<file path="catalog/view/theme/*/template/product/search.tpl">
+	<operation>
+	<search index="0"><![CDATA[if ($product['tax'])]]></search>
+	<add position="replace"><![CDATA[if (false) ]]></add>
+	</operation>
+</file>
+
+<file path="catalog/view/theme/*/template/product/special.tpl">
+	<operation>
+	<search index="0"><![CDATA[if ($product['tax'])]]></search>
+	<add position="replace"><![CDATA[if (false) ]]></add>
+	</operation>
+</file>
+
+<file path="catalog/view/theme/*/template/product/manufacturer_info.tpl">
+	<operation>
+	<search index="0"><![CDATA[if ($product['tax'])]]></search>
+	<add position="replace"><![CDATA[if (false) ]]></add>
+	</operation>
+</file>
+
+<file path="catalog/view/theme/*/template/extension/module/latest.tpl">
+	<operation>
+	<search index="0"><![CDATA[if ($product['tax'])]]></search>
+	<add position="replace"><![CDATA[if (false) ]]></add>
+	</operation>
+</file>
+
+<file path="catalog/view/theme/*/template/extension/module/special.tpl">
+	<operation>
+	<search index="0"><![CDATA[if ($product['tax'])]]></search>
+	<add position="replace"><![CDATA[if (false) ]]></add>
+	</operation>
+</file>
+
+<file path="catalog/view/theme/*/template/extension/module/bestseller.tpl">
+	<operation>
+	<search index="0"><![CDATA[if ($product['tax'])]]></search>
+	<add position="replace"><![CDATA[if (false) ]]></add>
+	</operation>
+</file>
+
+<file path="catalog/view/theme/*/template/extension/module/featured.tpl">
+	<operation>
+	<search index="0"><![CDATA[if ($product['tax'])]]></search>
+	<add position="replace"><![CDATA[if (false) ]]></add>
+	</operation>
+</file>
+</modification>

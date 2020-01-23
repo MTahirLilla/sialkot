@@ -1,0 +1,2470 @@
+2020-01-16 11:47:21 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-16 11:47:25 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-16 12:10:05 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-21 8:08:01 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+
+FILE: catalog/view/theme/yoodream/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+2020-01-21 11:11:36 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+
+FILE: catalog/view/theme/yoodream/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+2020-01-21 16:51:38 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+
+FILE: catalog/view/theme/yoodream/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+2020-01-22 9:21:22 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+
+FILE: catalog/view/theme/yoodream/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+2020-01-22 12:09:26 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+
+FILE: catalog/view/theme/yoodream/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+2020-01-22 12:16:02 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+
+FILE: catalog/view/theme/yoodream/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+2020-01-22 12:16:04 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+
+FILE: catalog/view/theme/yoodream/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+2020-01-22 12:54:31 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+
+FILE: catalog/view/theme/yoodream/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+2020-01-22 12:57:12 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+
+FILE: catalog/view/theme/yoodream/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+2020-01-22 12:57:44 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.tpl
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/simplica/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+LINE: 42
+
+FILE: catalog/view/theme/yoodream/template/common/footer.tpl
+CODE: <p class="pull-left"><?php echo $powered; ?></p>
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+2020-01-22 15:52:24 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 16:04:25 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 16:04:47 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 16:28:42 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 16:30:16 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 16:32:23 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 17:06:25 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 17:26:21 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 17:32:52 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 17:35:32 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 17:36:33 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 17:37:03 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 17:37:19 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 17:42:55 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
+2020-01-22 17:43:40 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Hide Ex Tax
+
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if ($tax)
+LINE: 148
+CODE: if ($product['tax'])
+LINE: 357
+
+FILE: catalog/view/theme/simplica/template/product/product.tpl
+CODE: if ($tax)
+LINE: 146
+CODE: if ($product['tax'])
+LINE: 374
+
+FILE: catalog/view/theme/default/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 112
+
+FILE: catalog/view/theme/simplica/template/product/category.tpl
+CODE: if ($product['tax'])
+LINE: 120
+
+FILE: catalog/view/theme/default/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 127
+
+FILE: catalog/view/theme/simplica/template/product/search.tpl
+CODE: if ($product['tax'])
+LINE: 123
+
+FILE: catalog/view/theme/default/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/special.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 75
+
+FILE: catalog/view/theme/simplica/template/product/manufacturer_info.tpl
+CODE: if ($product['tax'])
+LINE: 82
+
+FILE: catalog/view/theme/default/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/latest.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/special.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/bestseller.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/view/theme/default/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+LINE: 27
+
+FILE: catalog/view/theme/yoodream/template/extension/module/featured.tpl
+CODE: if ($product['tax'])
+NOT FOUND - OPERATIONS ABORTED!
+----------------------------------------------------------------
+MOD: Show Module Link At Left Menu
+
+FILE: admin/controller/common/column_left.php
+CODE: if ($this->user->hasPermission('access', 'extension/extension')) {
+LINE: 181
+----------------------------------------------------------------
